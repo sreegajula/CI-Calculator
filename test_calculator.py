@@ -3,7 +3,6 @@ import calculator
 
 class TestCalculatorApp:
 
-
     def test_add(self):
         assert 5 == calculator.add(1, 4)
 
