@@ -15,4 +15,3 @@ class TestCalculatorApp:
 
     def test_divide(self):
         assert 6 == calculator.divide(12, 2)
- 
